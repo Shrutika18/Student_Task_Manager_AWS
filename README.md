@@ -1,5 +1,8 @@
 # Student Task Manager – AWS Cloud Deployment
 
+<img width="1536" height="1024" alt="Student Task Manager Dashboard" src="https://github.com/user-attachments/assets/06472f36-d3dd-432c-9af7-ba9fd9299db7" />
+
+
 ## Project Overview
 Student Task Manager is a beginner-friendly web application developed using Python Flask and SQLite. It allows users to manage daily tasks through CRUD (Create, Read, Update, Delete) operations.
 
